@@ -1,55 +1,31 @@
 # Khayat Software Updates – N'Codiwha.ma
 
-## 👋 Welcome
-Hi there! 👋  
-This repository is used to provide **automatic updates** for the N'Codiwha.ma application.
+## About
+This repository is used to provide automatic updates for the N'Codiwha.ma application developed by Khayat Software.
 
----
+It operates in the background and allows the application to check for, download, and install updates.
 
-## 💡 What is this repository?
+## Purpose
+This repository is intended only for the application's internal update system.  
+Users are not required to interact with it directly.
 
-This space is used behind the scenes by the application to:
-- Check for new versions
-- Download updates
-- Keep your app up to date automatically
+## Important Notice
+- This repository does not contain any source code  
+- It is not intended for manual download or installation  
+- Files available here may not function correctly if used outside the application  
 
-👉 In simple words:  
-You don’t need to do anything here — everything happens inside the app 😊
+All files are automatically generated build artifacts used exclusively by the update system.
 
----
+## How Updates Work
+1. The application checks for available updates  
+2. If a new version is found, it is downloaded automatically  
+3. The update is installed internally by the application  
 
-## ⚠️ Just a quick note
+No manual action is required from the user.
 
-- This repository does **not contain source code**
-- It’s **not designed for manual downloads**
-- Files here are used only by the app’s update system
+## Security
+Only compiled application files are stored in this repository.  
+No sensitive or internal source code is included.
 
-If you try to download something manually, it might not work as expected — and that’s totally normal 👍
-
----
-
-## 🔄 How updates work
-
-1. You open the app  
-2. The app checks for updates  
-3. If a new version is available, it gets installed automatically  
-
-✨ Easy and seamless!
-
----
-
-## 🔐 Security
-
-Only compiled application files are stored here.  
-Your experience is safe and handled directly by the application.
-
----
-
-## 🙌 Need help?
-
-If you have any questions or need support, feel free to reach out through the official channels of Khayat Software.
-
----
-
-## ❤️ Maintained by
-**Khayat Software**
+## Maintained by
+Khayat Software
